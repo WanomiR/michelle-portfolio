@@ -3,7 +3,8 @@
   padding: 0;
   color: #787878;
   font-size: 32px;
-  line-height: 1;
+  line-height: 1.125;
   font-weight: normal;
   text-transform: capitalize;
+  margin-bottom: 24px;
 }

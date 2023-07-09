@@ -1,9 +1,10 @@
 .about-me__text {
   margin: 0;
   padding: 0;
+  margin-bottom: 16px;
   color: #a2a2a2;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.625;
   font-style: normal;
   font-weight: normal;
 }

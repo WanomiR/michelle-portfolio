@@ -1,0 +1,8 @@
+.featured-work {
+  max-width: 736px;
+  margin: 64px;
+  padding-bottom: 64px;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1.5px #e0e0e0 solid;
+}
