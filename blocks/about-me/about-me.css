@@ -1,7 +1,7 @@
 .about-me {
   max-width: 736px;
-  margin: 128px 64px 64px;
-  padding-bottom: 64px;
+  margin: 128px 64px 48px;
+  padding-bottom: 48px;
   display: flex;
   flex-direction: column;
   border-bottom: 1.5px #e0e0e0 solid;

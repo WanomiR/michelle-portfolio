@@ -1,0 +1,10 @@
+.featured-work__card-image {
+  width: 100%;
+  filter: brightness(.8);
+  border-radius: 6px;
+}
+
+.featured-work__link:hover .featured-work__card-image {
+  filter: brightness(.5);
+  transition: filter 0.2s ease-in-out;
+}

@@ -1,0 +1,16 @@
+.featured-work__button {
+  height: 50px;
+  width: 280px;
+  background-color: transparent;
+  border-radius: 5px;
+  border: solid 3px #efefef;
+  color: #787878;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.featured-work__button:hover {
+  color: #49bf9d;
+  border-color: #49bf9d;
+  transition: color .2s ease-in-out, border-color .2s ease-in-out;
+}
